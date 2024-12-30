@@ -54,7 +54,7 @@ python bulk_delete_tickets.py
 ```
 
 ### Example Scripts
-
+- **fetch_orgs.py**: Fetches all organizations in your Zendesk instance and saves the data into a CSV file, making it easy to manipulate in Excel or Google Sheets.
 - **bulk\_delete\_tickets.py**: Deletes a batch of tickets based on certain criteria.
 - **export\_tickets.py**: Extracts ticket data into a CSV file.
 - **import\_data\_from\_csv.py**: Reads data from a CSV file and pushes updates back to Zendesk.
